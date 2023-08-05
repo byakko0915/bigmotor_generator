@@ -1,0 +1,2 @@
+# bigmotor_generator
+ビッグモーター副社長構文ジェネレータ
